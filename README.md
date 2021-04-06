@@ -9,3 +9,6 @@ some practices with and without solid principles for more understanding of the b
 The source I have depended on it in this summary is 
 
 https://dotnettutorials.net/course/solid-design-principles/
+
+
+![SOLID Principles](https://github.com/MohamedHashish42/SOLID_PRINCIPLES/blob/master/./B/0-SOLID Principles in.jpg?raw=true)
