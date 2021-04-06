@@ -1,4 +1,4 @@
-#Solid Principles 
+# Solid Principles 
 
 This is a summary of solid principles in C#
 
