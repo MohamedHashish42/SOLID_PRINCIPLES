@@ -3,9 +3,10 @@
     public class InvoiceWithoutOCP
     {
         /*
-          in this example if one more Invoice Type comes into picture then we need to modify the 
-          GetInvoiceDiscount() method logic by adding another else if block to the source code.As
-          we are changing the source code for the new requirement,we are violating the OCP 
+          in this example if one more Invoice Type comes into picture then we 
+          need to modify the GetInvoiceDiscount() method logic by adding another 
+          else if block to the source code.As we are changing the source code for 
+          the new requirement,we are violating the OCP 
          */
         public double GetInvoiceDiscount(double amount, InvoiceType invoiceType)
         {
@@ -27,6 +28,5 @@
     {
         ProposedInvoice,
         FinalInvoice
-
     };
 }
